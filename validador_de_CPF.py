@@ -1,5 +1,5 @@
-cpf = "29692002850"
-novo_cpf = cpf[:-2]
+cpf = "29692002850" #cpf gerado aleatoriamente
+novo_cpf = cpf[:-2] 
 
 reverso = 10
 total = 0
